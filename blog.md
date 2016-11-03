@@ -1,20 +1,20 @@
 ---
-layout: default
-title: blog
+layout: page
 permalink: /blog/
+title: blog
 ---
 
-<div class="header-bar">
-  <h1>*folio</h1>
-  <h2>simple whitespace theme</h2>
+<!-- <div class="header-bar">
+  <h1>*wrk</h1>
+  <h2>WTF</h2>
   <br/>
   <hr>
   <br/>
-</div>
+</div> -->
 
 
 <ul class="post-list">
-    {% for post in paginator.posts %}
+    {% for post in site.blog reversed %}
       <li>
         <h2><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
         <p class="post-meta">{{ post.date | date: '%B %-d, %Y — %H:%M' }}</p>

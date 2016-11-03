@@ -15,6 +15,7 @@ markdown: kramdown
 highlighter: pygments
 
 # Pagination
+
 paginate: 15
 paginate_path: "/blog/page:num/"
 
@@ -26,5 +27,8 @@ collections:
   poetry:
     output: true
     permalink: /poetry/:path/
+  blog:
+    output: true
+    permalink: /blog/:path/
 
 
