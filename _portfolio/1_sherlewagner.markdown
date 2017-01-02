@@ -19,7 +19,7 @@ Sherle Wagner is a luxury bathroom fixtures company with a passion for unique an
 	Responsive website with Ruby on Rails, PostgreSQL and Bootstrap
 </div>
 
-The main goals were to showcase a fully re-done set of product images and to match the aesthetics of their newly re-done print catalog.
+The main goals were to showcase a fully re-done set of product images and to match the minimalist aesthetic of their newly re-designed print catalog.
 
 The website needed to serve as a product catalog for the sales staff as well as for clients, both private customers & interior designers so emphasis was placed on browsing and the search function. 
 
@@ -38,7 +38,7 @@ We designed a checkbox-filtering system using AJAX calls and responsive accordio
 	</div>
 </div>
 
-<div class="col one"> <br/><br>
+<div > <br/><br>
 
 	We initially included styles and collections in the top level of the side nav but user testing of our mockups showed that that was too cumbersome and confusing. 
 <br><br>
@@ -58,9 +58,18 @@ We designed a checkbox-filtering system using AJAX calls and responsive accordio
 	</div>
 </div>
 <div class="col three">
-Product lines are grouped into 'styles' reflecting period & aesthetic and the product catalog had to emphasize these and show the wide range of styles while minimizing clicks. 
+To show variety in the higher levels of the products section, we displayed products of each type, such as ‘Fittings’ and ‘Hardware’ broken in preview panels with 5 products from each of their sub-types (like 'sinks' or 'cabinet levers'). 
 
-Featured collections describe bathroom sets in specific matching finishes and styles. 
+This way customers can scroll through a section without wading through many pages of a single type of product. Each subtype has an environment image, adding color to each section. 
+
+This was an elegant way to mimic the experience of browsing the print catalog with each section showing significantly more individual products. We arrived at this solution through numerous iterations of paper prototypes and quick and dirty mock-ups.
+</div>
+<br>
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/SW/scroll1.gif" alt="" title="scrolling gif"/>
+	<div class="col three caption">
+	..
+	</div>
 </div>
 
 
