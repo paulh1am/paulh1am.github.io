@@ -72,8 +72,27 @@ This was an elegant way to mimic the experience of browsing the print catalog wi
 	</div>
 </div>
 
+<div class="col three">
+Each product is available in a wide range of finishes and with a variety of inset china patterns and semi-precious stones. The client provided as many photos of each product arrangement as possible but needed the option to add additional images and manage available inlays and finishes. Images are hosted on Amazon S3 and Rails integration is handled with Paperclip. 
+
+We built a swatch system that displayed images of their selected product arrangement (or a black and white if no image was available) and generated customer inquiries and tearsheets. 
+</div>
+
+<!-- prod page img gif / s -->
+
+We created a custom CMS to manage products and finish and inlay options and to provide a wide range of website customization and management. 
+The custom CMS is powered by RailsAdmin.
+<!-- image of Admin -->
+
+Product lines are grouped into 'styles' reflecting period & aesthetic and the product catalog had to emphasize these and show the wide range of custom bathroom styles while minimizing clicks. This was a chance to design a unique look for each collection and to feature the new environment photography. 
+We created an image rich landing page for the Collections section, grouping them into styles on with a floating menu and scroll-effects.
+
+Each collection’s page represents the design of the print catalogue, with varied sizing and extensive environment photos. We created a system of dynamic image tiles that can be managed through the custom CMS. Image sizes and environment photos can then be customized by the client. Sorting by product type is handled by JQuery. 
 
 
+We were proud to work with an iconic luxury brand to develop a unique and specialized website with a wide range of functionality and a vast and complex product database. 
+
+This page will be updated as we continue this great partnership.
 
 
 <!-- <div class="img_row">
@@ -85,6 +104,6 @@ This was an elegant way to mimic the experience of browsing the print catalog wi
 </div>
  -->
 
-<br/><br/><br/>
+
 
 
