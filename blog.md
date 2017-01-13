@@ -1,7 +1,5 @@
 ---
-layout: page
-permalink: /blog/
-title: blog
+
 ---
 
 <!-- <div class="header-bar">

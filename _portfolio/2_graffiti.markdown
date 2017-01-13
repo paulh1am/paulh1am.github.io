@@ -1,11 +1,14 @@
 ---
 layout: post
-title: Graffiti Writer
+title: Digital Graffiti Wall
 description: digital graffiti game
 img: /img/graffiti/graf2.jpg
 ---
 
-Digital Graffiti Writer is an interactive installation that was exhibited in the ITP winter show in 2015. The piece invites users to create a piece of graffiti art on a wall by using a wireless spray-paint can controller to ‘paint’  through a live projection. The spray-paint can wirelessly communicates with an XBox Kinnect and a computer running the custom painting program and updates the projected animation.
+<iframe src="https://player.vimeo.com/video/114297732" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/114297732">Digital Grafitti Wall</a> on Vimeo.</p>
+
+Digital Graffiti Wall is an interactive installation that was exhibited in the ITP winter show in 2015. The piece invites users to create a piece of graffiti art on a wall by using a wireless spray-paint can controller to ‘paint’  through a live projection. The spray-paint can wirelessly communicates with an XBox Kinnect and a computer running the custom painting program and updates the projected animation.
 
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/graffiti/can.gif" alt="" title="controller"/>
@@ -36,7 +39,11 @@ We used Twilio to let visitors text or email their paintings to within the progr
 
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/graffiti/setup.jpg" alt="" title="graffiti gif"/>
+	<div class="col three caption">
+ the display setup
+</div>
 <img class="col three" src="{{ site.baseurl }}/img/graffiti/graf2.gif" alt="" title="graffiti gif"/>
 </div>
+The piece was well received and we are currently re-imagining it as a more accessable digital graffiti game package.
 
 
