@@ -5,51 +5,38 @@ description: digital graffiti game
 img: /img/graffiti/graf2.jpg
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
-
-	---
-	layout: post
-	title: Project
-	description: a project with a background image
-	img: /img/12.jpg
-	---
-
+Digital Graffiti Writer is an interactive installation that was exhibited in the ITP winter show in 2015. The piece invites users to create a piece of graffiti art on a wall by using a wireless spray-paint can controller to ‘paint’  through a live projection. The spray-paint can wirelessly communicates with an XBox Kinnect and a computer running the custom painting program and updates the projected animation.
 
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
+	<img class="col three" src="{{ site.baseurl }}/img/graffiti/can.gif" alt="" title="controller"/>
+	
 </div>
 <div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+	The Bluetooth Controller has a green light on the nozzle, which the the Kinnect tracks for position.
 </div>
+
+
+
+
+
+
+Controls on the can allow the user to change color and ‘brush’ size and to switch between drawing and writing modes. 
+In writing mode the program uses a handwriting analysis API to find written words and then overlays them in exciting graffiti fonts.
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
+<img class="col one" src="{{ site.baseurl }}/img/graffiti/graf1.jpg" alt="" title="graffiti peice"/>
+<img class="col one" src="{{ site.baseurl }}/img/graffiti/tag21.jpg" alt="" title="graffiti peice"/>
+<img class="col one" src="{{ site.baseurl }}/img/graffiti/tag1.jpg" alt="" title="graffiti peice"/>
 </div>
 <div class="col three caption">
-	This image can also have a caption. It's like magic. 
+ a caption
 </div>
-
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
-
+<br>
+A main priority for this piece was to enable visitors to create convincing graffiti art. This drove us to include the handwriting analysis function, built with MyScript's api, and also to project onto a plain brick wall, as opposed to a custom surface that could include embedded sensors. 
+We used Twilio to let visitors text or email their paintings to within the program.
 
 <div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/11.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	You can also have artistically styled 2/3 + 1/3 images, like these.
+	<img class="col three" src="{{ site.baseurl }}/img/graffiti/setup.jpg" alt="" title="graffiti gif"/>
+<img class="col three" src="{{ site.baseurl }}/img/graffiti/graf2.gif" alt="" title="graffiti gif"/>
 </div>
 
 
-<br/><br/><br/>
-
-
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above: 
-
-	<div class="img_row">
-	  <img class="col two" src="/img/6.jpg"/>
-	  <img class="col one" src="/img/11.jpg"/>
-	</div>
