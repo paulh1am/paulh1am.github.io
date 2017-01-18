@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 ---
 
-<img class="col one left" src="/img/paul_hiam.png">
+<img class="col one left" src="/img/paul_hiam1.png">
 
 
 Paul is a designer and developer focusing on interactive products and experiences. A recent graduate of New York University’s Interactive Telecommunications Program (ITP), he creates work exploring topics in new media like IOT, game design, VR, data-visualization and user experience. 
