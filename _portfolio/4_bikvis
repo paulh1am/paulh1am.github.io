@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Project
+title: Bike Vis
 description: CitiBike station forecasts
 img: 
 ---
-
+<!-- 
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
 	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
@@ -19,7 +19,7 @@ wrds
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
 
-</div>
+</div> -->
 
 
 
