@@ -2,7 +2,7 @@
 layout: page
 permalink: /resume/
 title: resume
-description: Paul Hiam
+description: Paul Hiam needs to re-upload his resume
 ---
 
 <!-- <ul class="post-list">

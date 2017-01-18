@@ -2,7 +2,7 @@
 layout: post
 title: FireJar
 description: Mobile Location Based Media Sharing
-img:
+img: /img/fjar/firejar.jpg
 
 ---
 
