@@ -26,20 +26,26 @@ An early motivation for this project was being able to find videos of street per
 
 Users log in to upload content and place it on the map. Photos, video, audio and text were all supported and demoed. Log in is not required to discover and view content in map locations.
 
-<img class="col one" src="{{ site.baseurl }}/img/fjar/brdgapprch.gif" alt="" title="example image"/>
+<div class="img_row">
+  <img class="col three" src="{{ site.baseurl }}/img/fjar/addToITP.gif" alt="" title="add note"/>
+</div>
+<div class="col three caption">
+  Prototype: Adding a note and an image from the iPhone gallery to a 'time capsule' at ITP
+</div>
+<br><br><br><br>
+<img class="col one" src="{{ site.baseurl }}/img/fjar/brdgapprch.gif" alt="" title="example"/>
+
+
 
 Users can also create Projects that Combine content in different locations,making an experience similar to an audio tour by linking multiple places and pointing where to go next.
 
 
 
-To Demo this I created a project that let visitors to the Brooklyn Bridge discover and listen to Walt Whitman’s poem Crossing Brooklyn Ferry as they walked across.
+To Demo this I created a project that let Brooklyn Bridge visitors discover and listen to Walt Whitman’s poem Crossing Brooklyn Ferry as they crossed.
 We placed stickers along the bridge to prompt people to go to the fire jar page, find the recordings and listen. 
 
 
-The verses are strung along the route so that at walking speed, it will queue the next verses as they are picked up (Lat/Long proximity). I made sure to have a seamless playback to minimize the need to look at or use a mobile device. Leaving a response was encouraged though and comments and pictures/videos were uploaded to an Amazon S3 bucket and added to the FireJar project.
-
-
-
+The verses are strung along the route so that at walking speed, it will queue the next verses as they are picked up (Lat/Long proximity). I made sure to have a seamless playback to minimize the need to look at or use a mobile device. Leaving a response was encouraged though and comments and pictures/videos were uploaded and added to the FireJar project.
 
 <br><br>
 

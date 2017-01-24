@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Digital Graffiti Wall
-description: digital graffiti game
+description: Digital Graffiti Game
 img: /img/graffiti/graf2.jpg
 ---
 
@@ -26,12 +26,12 @@ Digital Graffiti Wall is an interactive installation that was exhibited in the I
 Controls on the can allow the user to change color and ‘brush’ size and to switch between drawing and writing modes. 
 In writing mode the program uses a handwriting analysis API to find written words and then overlays them in exciting graffiti fonts.
 <div class="img_row">
-<img class="col one" src="{{ site.baseurl }}/img/graffiti/graf1.jpg" alt="" title="graffiti peice"/>
-<img class="col one" src="{{ site.baseurl }}/img/graffiti/tag21.jpg" alt="" title="graffiti peice"/>
-<img class="col one" src="{{ site.baseurl }}/img/graffiti/tag1.jpg" alt="" title="graffiti peice"/>
+<img class="col one" src="{{ site.baseurl }}/img/graffiti/graf1.jpg" alt="" title="graffiti piece"/>
+<img class="col one" src="{{ site.baseurl }}/img/graffiti/tag21.jpg" alt="" title="graffiti piece"/>
+<img class="col one" src="{{ site.baseurl }}/img/graffiti/tag1.jpg" alt="" title="graffiti piece"/>
 </div>
 <div class="col three caption">
- a caption
+ Digital Graffiti pieces from the installation at the ITP Winter Show
 </div>
 <br>
 A main priority for this piece was to enable visitors to create convincing graffiti art. This drove us to include the handwriting analysis function, built with MyScript's api, and also to project onto a plain brick wall, as opposed to a custom surface that could include embedded sensors. 

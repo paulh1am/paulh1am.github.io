@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Voice Pong
-description: Voice Controlled Pong via Web
-img: /img/pong/voicePong.png
+description: Voice-Controlled Pong over Web
+img: /img/pong/voicePong2.png
 ---
 <iframe src="https://player.vimeo.com/video/200746414" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/200746414">voicePong</a> from <a href="https://vimeo.com/user32370828">Paul H.</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
