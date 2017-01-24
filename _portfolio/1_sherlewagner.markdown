@@ -9,7 +9,7 @@ img: /img/SW/SWshowcase.png
 
 
 <div class="col three">
-Sherle Wagner is a luxury bathroom fixtures company with a passion for unique and elegant design. My partner <a href="http://wakelankard.com/">Wake</a> and I were tasked with redoing their <a href="http://sherlewagner.com">website and online catalog</a>.
+Sherle Wagner is a luxury bathroom fixtures company with a passion for unique and elegant design. My partner <a href="http://wakelankard.com/" target="new">Wake</a> and I were tasked with redoing their <a href="http://sherlewagner.com" target="new">website and online catalog</a>.
 
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/SW/SWshowwide.png" alt="" title="display showcase"/>
@@ -38,7 +38,7 @@ We designed a checkbox-filtering system using AJAX calls and responsive accordio
 	</div>
 </div>
 
-<div > <br/><br>
+<div > 
 
 	We initially included styles and collections in the top level of the side nav but user testing of our mockups showed that that was too cumbersome and confusing. 
 <br><br>

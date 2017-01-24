@@ -12,7 +12,7 @@ img: /img/arcade/arcade1.png
 
 Arcade is an indie arcade cabinet that was built and shown in 2015 in collaboration with Kat Sullivan and Louis Minsky. It uses Unity and Arduino to capture input from classic arcade controls.
 
-The arcade cabinet was designed and fabricated using a CAD model and CNC router. It features three original games made in Unity. 
+The arcade cabinet was designed and fabricated using a CAD model and CNC router. It features three original games made in Unity. Pictured here is my game, 'Space...Woah', in action. 
 
 It was shown at the NYC Arcade at the NYU Game Center in June 2015 and also at the ITP Spring Show in 2015.
 
@@ -22,10 +22,21 @@ The cabinet is made up of two seperate sections and can be rolled when assembled
 
 <img class="col one" src="{{ site.baseurl }}/img/arcade/cont.jpg" alt="" title="arcade process"/>
 <img class="col one" src="{{ site.baseurl }}/img/arcade/proto.jpg" alt="" title="arcade process"/>
+<img class="col one" src="{{ site.baseurl }}/img/arcade/cad1
+.png" alt="" title="arcade process"/>
+</div>
+<div class="col three caption">
+  Cardboard Prototyping, circuit assembly and CAD model
+</div>
+<br>
+<div class="img_row">
+
+<img class="col one" src="{{ site.baseurl }}/img/arcade/cad3.png" alt="" title="arcade process"/>
+<img class="col one" src="{{ site.baseurl }}/img/arcade/assemble.jpg" alt="" title="arcade process"/>
 <img class="col one" src="{{ site.baseurl }}/img/arcade/arcadeRaw.jpg" alt="" title="arcade process"/>
 </div>
 <div class="col three caption">
-  Cardboard Prototyping, circuit assembly and progress on the Cabinet
+  CNC paths, assembling/glueing and the unpainted cabinet showing tongue-in-groove joints.
 </div>
 <br>
 <div class="img_row">
