@@ -26,7 +26,7 @@ Systems for heating, cooling, humidifying as well as sensors to monitor environm
 </div>
 <br>
 <div class="img_row">
-  <img class="col three" src="{{ site.baseurl }}/img/myco/animation.gif" alt="" title="myco box design"/>
+  <img class="col three" src="{{ site.baseurl }}/img/myco/Animation.gif" alt="" title="myco box design"/>
 </div>
 <div class="col three caption">
 3D model done in Rhinocerous
