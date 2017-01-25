@@ -20,8 +20,8 @@ The cabinet is made up of two seperate sections and can be rolled when assembled
 
 <div class="img_row">
 
-<img class="col one" src="{{ site.baseurl }}/img/arcade/cont.JPG" alt="" title="arcade process"/>
-<img class="col one" src="{{ site.baseurl }}/img/arcade/proto.JPG" alt="" title="arcade process"/>
+<img class="col one" src="{{ site.baseurl }}/img/arcade/cont.jpg" alt="" title="arcade process"/>
+<img class="col one" src="{{ site.baseurl }}/img/arcade/proto.jpg" alt="" title="arcade process"/>
 <img class="col one" src="{{ site.baseurl }}/img/arcade/cad1
 .png" alt="" title="arcade process"/>
 </div>
