@@ -20,8 +20,8 @@ The cabinet is made up of two seperate sections and can be rolled when assembled
 
 <div class="img_row">
 
-<img class="col one" src="{{ site.baseurl }}/img/arcade/cont.jpg" alt="" title="arcade process"/>
-<img class="col one" src="{{ site.baseurl }}/img/arcade/proto.jpg" alt="" title="arcade process"/>
+<img class="col one" src="{{ site.baseurl }}/img/arcade/cont.JPG" alt="" title="arcade process"/>
+<img class="col one" src="{{ site.baseurl }}/img/arcade/proto.JPG" alt="" title="arcade process"/>
 <img class="col one" src="{{ site.baseurl }}/img/arcade/cad1
 .png" alt="" title="arcade process"/>
 </div>
@@ -48,13 +48,13 @@ The cabinet is made up of two seperate sections and can be rolled when assembled
 <br><br>
 <h3>Arcade Game</h3>
 <br>
-I created Space...Woah in Unity for the Arcade cabinet as a two player, head-to-head battle. It is a space-physics game designed to inspire competition and chaos with a simple sports game mechanic akin to NBA Jam or, more recently, Rocket League.
+I created Space...Woah in Unity for the Arcade cabinet as a two player, head-to-head battle. It is a space-physics game designed to inspire competition and chaos with a simple sports game mechanic akin to NBA Jam or, more recently, Rocket League. I was interested in pairing space physics with sports game mechanics as a way to get players to physically fight with the zero gravity drifting motion and to push the directional controllers and buttons to their limits. I see this type of forceful interaction as one of the best things about classic arcade consoles. 
 
 <div class="img_row">
   <img class="col three" src="{{ site.baseurl }}/img/arcade/spaceWoah.gif" alt="" title="Game scene"/>
 </div>
 <div class="col three caption">
-  Green and Purple triangles are the players. Green gem is the 'ball'. Hexagons are goals. Orange triangles are enemies. This shows the Green player dis-possessing the Purple.
+  Green and Purple triangles are the players. Green gem is the 'ball'. Hexagons are goals. Orange triangles are enemies. This gif shows the Green player dis-possessing the Purple one of the 'ball'.
 </div>
 
 Meteor showers provide energy boosts which can be used to travel at warp speed and smash your opponents. Crashes cause players to drop the ball. Points are scored by bringing the ball to your goal (a moving target). Avoid the orange hazards. Game to 3.
