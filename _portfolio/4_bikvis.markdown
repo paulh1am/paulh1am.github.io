@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bike-Vis
-description: CitiBike Station Forecasts
+description: CitiBike Trip Planner & Station Forecasts
 img: /img/vis/vis2.png
 ---
 <div class="img_row">
