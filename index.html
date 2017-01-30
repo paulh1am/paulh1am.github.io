@@ -6,6 +6,19 @@ title: portfolio
     body{
         background-color: #ddd;
     }
+    .wrapper{
+            max-width: -webkit-calc(1200px - (50px * 2));
+    max-width: calc(1200px - (50px * 2));
+    }
+    .site-nav{
+        padding-right: 15px;
+    }
+    .project{
+        height: 370px;
+    }
+    .thumbnail, .thumbnail a{
+        height: 348px;
+    }
 </style>
 {% for project in site.portfolio %}
 
