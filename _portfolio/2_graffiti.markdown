@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Digital Graffiti Wall
-description: Digital Graffiti Game
+description: Graffiti Simulator
 img: /img/graffiti/graf2.jpg
+tags: [physical computing | , exhibit] 
 ---
 
 <iframe src="https://player.vimeo.com/video/114297732" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
