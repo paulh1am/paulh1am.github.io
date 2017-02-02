@@ -2,6 +2,7 @@
 layout: page
 permalink: /resume/
 title: resume
+
 description: Paul's Resume
 ---
 

@@ -2,7 +2,8 @@
 
   <div class="wrapper">
     <div class="name">
-      <p>Paul Hiam</p>
+      <!-- <p>Paul Hiam</p> -->
+      <a href="{{ site.baseurl }}">Paul Hiam</a>
     </div>
 
     <nav class="site-nav">
@@ -12,7 +13,10 @@
         <!-- {{ site.title }} instead of blog -->
 
         {% for page in site.pages %}
-          {% if page.title %}
+          
+          {% if page.link %}
+          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}#{{page.link}}">{{ page.link }}</a>
+          {% else %}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
