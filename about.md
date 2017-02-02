@@ -3,8 +3,12 @@ layout: page
 title: about
 permalink: /about/
 ---
-
-<img class="col one left" src="/img/paul_hiam1.png">
+<style>
+  .portrait{
+    margin-right: 15px;
+  }
+</style>
+<img class="col one left portrait" src="/img/paul_hiam1.png">
 
 
 I am a designer and developer focusing on interactive products and experiences. As a recent graduate of NYU’s Interactive Telecommunications Program (ITP), I am passionate about new media, technology and design. I create work exploring things like IoT, game design, VR, data-visualization and user experience. 
