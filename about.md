@@ -7,14 +7,11 @@ permalink: /about/
 <img class="col one left" src="/img/paul_hiam1.png">
 
 
-Paul is a designer and developer focusing on interactive products and experiences. A recent graduate of NYU’s Interactive Telecommunications Program (ITP), he creates work exploring topics in new media like IOT, game design, VR, data-visualization and user experience. 
+I am a designer and developer focusing on interactive products and experiences. As a recent graduate of NYU’s Interactive Telecommunications Program (ITP), I am passionate about new media, technology and design. I create work exploring things like IoT, game design, VR, data-visualization and user experience. 
 
-He is also a graduate of the Web Development Immersive program at General Assembly in NY. 
+I also completed the Web Development Immersive program at General Assembly in NY. 
 
-When he isn’t hacking or tinkering Paul can be found rock climbing, drawing in various notebooks or trying to learn jazz guitar. 
-
-
-
+When I'm not hacking or tinkering I like rock climbing, sketching in notebooks and trying to learn jazz guitar. 
 
 <br/>
 <hr/>

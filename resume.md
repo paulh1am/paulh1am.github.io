@@ -2,14 +2,9 @@
 layout: page
 permalink: /resume/
 title: resume
-description: Paul Hiam needs to re-upload his resume
+description: Paul's Resume
 ---
 
-<!-- <ul class="post-list">
-{% for poem in site.poetry reversed %}
-    <li>
-        <h2><a class="poem-title" href="{{ poem.url | prepend: site.baseurl }}">{{ poem.title }}</a></h2>
-        <p class="post-meta">{{ poem.date | date: '%B %-d, %Y — %H:%M' }}</p>
-      </li>
-{% endfor %}
-</ul> -->
+<a href="{{ site.baseurl }}/img/resume/PaulHiamResume.pdf" download="Resume_Paul_Hiam">Download  pdf</a>
+
+<img class="col three" src="{{ site.baseurl }}/img/resume/PaulHiamResume.jpg" alt="Paul's Resume" style="border: 2px solid gray">
