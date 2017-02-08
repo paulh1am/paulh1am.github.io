@@ -3,6 +3,7 @@ layout: post
 title: Myco-Box
 description: API-Controlled Mushroom Farm
 img: /img/myco/myco1.jpg
+tags: [IoT |, NodeJS |, Fabrication |, Physical Computing | Circuit Design]
 ---
 <div class="img_row">
   <img class="col three" src="{{ site.baseurl }}/img/myco/wide.jpg" alt="" title="myco box design"/>

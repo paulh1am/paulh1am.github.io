@@ -3,6 +3,7 @@ layout: post
 title: Digital Graffiti Wall
 description: Graffiti Simulator
 img: /img/graffiti/graf2.jpg
+tags: [Physical Computing |, Experience Design |, Installation |, Processing]
 ---
 
 <iframe src="https://player.vimeo.com/video/114297732" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

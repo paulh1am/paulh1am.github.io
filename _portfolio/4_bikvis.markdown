@@ -3,6 +3,7 @@ layout: post
 title: Bike-Vis
 description: CitiBike Trip Planner & Station Forecasts
 img: /img/vis/vis2.png
+tags: [Web Development |,NodeJS |, UI]
 ---
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/vis/vis1.gif" alt="" title="bike vis trip planner"/>

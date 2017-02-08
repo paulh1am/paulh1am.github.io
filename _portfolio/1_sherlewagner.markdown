@@ -3,6 +3,7 @@ layout: post
 title: Sherle Wagner
 description: Website and Online Catalog
 img: /img/SW/SWshowcase.png
+tags: [Web Development |, Ruby on Rails |, Mobile UX |, UI]
 ---
 
 

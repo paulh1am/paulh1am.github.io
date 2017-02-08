@@ -3,7 +3,7 @@ layout: post
 title: FireJar
 description: Mobile Location Based Media Sharing
 img: /img/fjar/firejar.jpg
-
+tags: [Web Development |, NodeJS + Express |, Mobile UX |, UI]
 ---
 
 
