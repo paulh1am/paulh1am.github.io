@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FireJar
-description: Location-Based Media
+description: Location-Based Media Web App
 img: /img/fjar/firejar.jpg
 tags: [Web Development |, NodeJS + Express |, Mobile UX |, UI]
 ---
