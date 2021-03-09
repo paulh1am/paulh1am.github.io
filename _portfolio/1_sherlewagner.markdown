@@ -130,10 +130,6 @@ Each collection’s unique page represents the design of the print catalogue, wi
 </div>
 
 
-We were honored to work with this iconic luxury brand to develop a unique and specialized website with a wide range of functionality and a vast and complex product database. 
-
-This page will be updated as we continue this exciting collaboration.
-
 
 <!-- <div class="img_row">
 	<img class="col two" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
