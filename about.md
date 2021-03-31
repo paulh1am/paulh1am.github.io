@@ -9,14 +9,21 @@ permalink: /about/
     margin-right: 15px;
   }
 </style>
-<img class="col one left portrait" src="/img/paul_hiam1.png">
+<img class="col one left portrait" src="/img/signText.jpg">
 
 
-I am a designer and developer focusing on interactive products and experiences. I am passionate about new media, technology and design and am a recent graduate of NYU’s Interactive Telecommunications Program (ITP). I create work that explores topics like IoT, game design, VR, data-visualization and user experience.  
+I am a designer and developer focused on interactive experiences and storytelling. 
 
-I also completed the Web Development Immersive program at General Assembly in NY. 
+My skillset includes:<br>
+Responsive UX & UI design <br>
+Web development with Javascript and React<br>
+Digital Design and Animation<br>
+Atomic Design<br>
+Rapid Prototyping<br>
 
-When I'm not hacking or tinkering I like rock climbing, sketching in notebooks and trying to learn jazz guitar.
+
+I am an alum of <a href="https://tisch.nyu.edu/itp">ITP at NYU (MPS)</a> and the web development bootcamp at <a href="https://generalassemb.ly"> General Assembly</a>.
+Until recently I worked for International Rescue Committee.
 
 <br/>
 <hr/>
