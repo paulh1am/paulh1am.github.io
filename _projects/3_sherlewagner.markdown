@@ -1,8 +1,8 @@
 ---
 title: 'Sherle Wagner'
 subtitle: 'Website and Online Catalog'
-date: 2018-06-30
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
+date: 2018-06-10
+description: Web dev project with Rails 
 featured_image: '/images/SW/SWshowcase.png'
 ---
 
