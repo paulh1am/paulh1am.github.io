@@ -1,5 +1,6 @@
 ---
 title: Voice Pong
+date: 2016-05-30 00:00:00
 description: Voice-Controlled Pong over Web
 featured_image: '/images/pong/voicePong2.png'
 tags: [Web Development |, Installation |, Game Design |, UI]
