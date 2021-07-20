@@ -15,19 +15,38 @@ tags: [Digital Design |, Interaction |, UX]
     <p>Responsive maps that animate on scroll.
     My role: UX design, mapbox design, prototyping</p>
    <!--  <img class="col one" src="{{ site.baseurl }}/images/IRC_UX/mapSyriaGif2.gif" alt="" title="display showcase"/> -->
-
-    
-    
-    
   </div>
+
+  <div class="gallery" data-columns="3">
+     
+     <img class="col three" src="{{ site.baseurl }}/images/IRC_UX/chartTweet.png" alt="" title="display showcase"/>
+      <img src="/images/demo/demo-landscape.jpg">
+    <img src="/images/demo/demo-square.jpg">
+    <img src="/images/demo/demo-landscape-2.jpg">
+  
+  </div>
+
   <hr/><br/>
   <h3>Graphics:</h3><br/>
   <!-- arrival chart tweet -->
-  <div class="img_row">
-     <img class="col two" src="{{ site.baseurl }}/images/IRC_UX/chartTweet.png" alt="" title="display showcase"/>
+  
+  <div class="gallery" data-columns="3">
+     
+    <img src="{{ site.baseurl }}/images/IRC_graphic/chartTweet.png" alt="" title=""/>
+    <img src="{{ site.baseurl }}/images/IRC_graphic/RescueNow-tweet4.gif" alt="" title=""/>
+     <img src="{{ site.baseurl }}/images/IRC_graphic/LukaGraphic.png" alt="" title=""/>
+     
+     <img src="{{ site.baseurl }}/images/IRC_graphic/border-arrow2.gif" alt="" title=""/>
+    <img src="{{ site.baseurl }}/images/IRC_graphic/mapTweet.png" alt="" title=""/>
+    <img src="{{ site.baseurl }}/images/IRC_graphic/ventilators.png" alt="" title=""/>
+
+     <img src="{{ site.baseurl }}/images/IRC_graphic/trumpGraph2c.gif" alt="" title=""/>
+    
+  
   </div>
   <br/><hr/><br/>
   <h3>Animation and Motion Graphics Templates:</h3><br/>
+
   <div class="img_row">
    <!-- RNOW animation Tweet -->
     <img class="col two" src="{{ site.baseurl }}/images/IRC_UX/RescueNow-tweet4.gif" alt="" title="display showcase"/>
