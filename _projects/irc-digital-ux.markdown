@@ -8,56 +8,64 @@ tags: [Digital Design |, Interaction |, UX]
 
 
 
-<div class="col three">
-  <hr/><br/>
-  <h3>Web/UX:</h3><br/>
-  <div class="col three">
-    <p>Responsive maps that animate on scroll.
-    My role: UX design, mapbox design, prototyping</p>
-   <!--  <img class="col one" src="{{ site.baseurl }}/images/IRC_UX/mapSyriaGif2.gif" alt="" title="display showcase"/> -->
-  </div>
 
-  <div class="gallery" data-columns="3">
-     
-     <img class="col three" src="{{ site.baseurl }}/images/IRC_UX/chartTweet.png" alt="" title="display showcase"/>
-      <img src="/images/demo/demo-landscape.jpg">
-    <img src="/images/demo/demo-square.jpg">
-    <img src="/images/demo/demo-landscape-2.jpg">
-  
-  </div>
 
-  <hr/><br/>
-  <h3>Graphics:</h3><br/>
-  <!-- arrival chart tweet -->
-  
-  <div class="gallery" data-columns="3">
-     
-    <img src="{{ site.baseurl }}/images/IRC_graphic/chartTweet.png" alt="" title=""/>
-    <img src="{{ site.baseurl }}/images/IRC_graphic/RescueNow-tweet4.gif" alt="" title=""/>
-     <img src="{{ site.baseurl }}/images/IRC_graphic/LukaGraphic.png" alt="" title=""/>
-     
-     <img src="{{ site.baseurl }}/images/IRC_graphic/border-arrow2.gif" alt="" title=""/>
-    <img src="{{ site.baseurl }}/images/IRC_graphic/mapTweet.png" alt="" title=""/>
-    <img src="{{ site.baseurl }}/images/IRC_graphic/ventilators.png" alt="" title=""/>
+<h3>UX & Interaction Design:</h3>
 
-     <img src="{{ site.baseurl }}/images/IRC_graphic/trumpGraph2c.gif" alt="" title=""/>
-    
-  
-  </div>
-  <br/><hr/><br/>
-  <h3>Animation and Motion Graphics Templates:</h3><br/>
+In addition to the design and implementation of global websites we completed projects across the organization to add functionality and solve pain-points, and provided leadership in the areas of UX and technology. Below are some examples of features we designed and built.
+<br/>
+<hr/>
+<strong>Responsive story maps that animate on scroll</strong>
 
-  <div class="img_row">
-   <!-- RNOW animation Tweet -->
-    <img class="col two" src="{{ site.baseurl }}/images/IRC_UX/RescueNow-tweet4.gif" alt="" title="display showcase"/>
- 
-  <!-- trump graph animation -->
-    <img class="col two" src="{{ site.baseurl }}/images/IRC_UX/trumpGraph2.gif" alt="" title="display showcase"/>   
-  
-  <!-- RF arrow animation -->
-     <img class="col two" src="{{ site.baseurl }}/images/IRC_UX/border-arrow2.gif" alt="" title="display showcase"/>
- 
-    
-  </div>
+This project was featured by Mapbox.com.
+
+<strong>My role:</strong> API integration, UX design, mapbox design, prototyping
+<br/>
+<div class="img_row">
+
+<img style="width: 35%; margin: 0 auto;" src="{{ site.baseurl }}/images/IRC_UX/mapSyriaGif2.gif"  alt="" title="display showcase"/>
 </div>
+<hr/>
+<strong>Interactive quiz/lead-gen page for World Refugee Day campaign </strong>
+
+This unique interactive experience achieved a high engagement and conversion rate.
+
+<strong>My role:</strong> Concept & Interaction design, prototyping, UX.
+
+
+<br/>
+<div class="img_row">
+
+<img style="width: 35%; margin: 0 auto;" src="{{ site.baseurl }}/images/IRC_UX/mapSyriaGif2.gif"  alt="" title="display showcase"/>
+</div>
+
+
+
+
+
+
+<h3>Graphics:</h3>
+<br/>
+I created digital assets for use across web, social and video and designed motion graphics and video content. I created and maintained the video graphics template library (Javascript/Adobe Extendscript)to standardize motion titles/graphics across the organization and to pre-design consistent campaigns. 
+
+By switching from keyframes to code we significantly expanded the availability and use of motion graphics.
+<br/>
+
+
+
+<div class="gallery" data-columns="3">
+   
+  <img src="{{ site.baseurl }}/images/IRC_graphic/chartTweet.png" alt="" title=""/>
+  <img src="{{ site.baseurl }}/images/IRC_graphic/RescueNow-tweet4.gif" alt="" title=""/>
+   <img src="{{ site.baseurl }}/images/IRC_graphic/LukaGraphic.png" alt="" title=""/>
+   
+   <img src="{{ site.baseurl }}/images/IRC_graphic/border-arrow2.gif" alt="" title=""/>
+  <img src="{{ site.baseurl }}/images/IRC_graphic/mapTweet.png" alt="" title=""/>
+  <img src="{{ site.baseurl }}/images/IRC_graphic/ventilators.png" alt="" title=""/>
+
+   <img src="{{ site.baseurl }}/images/IRC_graphic/trumpGraph2c.gif" alt="" title=""/>
+  
+
+</div>
+
 	
