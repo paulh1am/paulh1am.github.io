@@ -20,6 +20,7 @@ In addition to the design and implementation of global websites we completed pro
 This project was featured by Mapbox.com.
 
 <strong>My role:</strong> API integration, UX design, mapbox design, prototyping
+
 <br/>
 <div class="img_row">
 
@@ -28,7 +29,7 @@ This project was featured by Mapbox.com.
 <hr/>
 <strong>Interactive quiz/lead-gen page for World Refugee Day campaign </strong>
 
-This unique interactive experience achieved a high engagement and conversion rate.
+This unique interactive experience achieved high engagement and conversion rates.
 
 <strong>My role:</strong> Concept & Interaction design, prototyping, UX.
 
@@ -36,7 +37,7 @@ This unique interactive experience achieved a high engagement and conversion rat
 <br/>
 <div class="img_row">
 
-<img style="width: 35%; margin: 0 auto;" src="{{ site.baseurl }}/images/IRC_UX/mapSyriaGif2.gif"  alt="" title="display showcase"/>
+<img style="width: 35%; margin: 0 auto;" src="{{ site.baseurl }}/images/IRC_UX/mobile_quiz.gif"  alt="" title="display showcase"/>
 </div>
 
 
