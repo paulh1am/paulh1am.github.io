@@ -12,7 +12,8 @@ tags: [Digital Design |, Interaction |, UX]
 
 <h3>UX & Interaction Design:</h3>
 
-In addition to the design and implementation of global websites we completed projects across the organization to add functionality and solve pain-points, and provided leadership in the areas of UX and technology. Below are some examples of features we designed and built.
+I was part of the Digital Team at International Rescue Committee. We handled the design and implementation of global websites and completed projects across the organization, providing leadership in the areas of UX and technology. We designed multiple award-winning digital campaigns during the 3 years I was there.
+Below are some examples of features we designed and built.
 <br/>
 <hr/>
 <strong>Responsive story maps that animate on scroll</strong>
