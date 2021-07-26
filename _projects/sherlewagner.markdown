@@ -17,12 +17,16 @@ featured_image: '/images/SW/SWshowcase.png'
 
 <strong>My role:</strong> Product design/UX, frontend web development (lead), full-stack web development, project management
 
-
+<br>
+<hr>
+<strong>Product navigation</strong>
 <div class="gallery" data-columns="2">
-    <img src="/images/SW/SW_Nav_2.jpg">
-    
-    <img src="/images/SW/scroll1.gif">
+  <img src="/images/SW/SW_Nav_2.jpg">
+  <img src="/images/SW/scroll1.gif">
 </div>
+<br>
+<hr>
+<strong>Product details and sets</strong>
 <div class="gallery" data-columns="2">
     <img src="/images/SW/prodPagechina.gif">
     <img src="/images/SW/systemGif.gif" alt="">
