@@ -2,7 +2,7 @@
 title: IRC Design & Interactive Work
 date: 2019-06-30 00:00:00
 description: IRC - UX & Digital Design Work
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/IRC_UX/tabletQuiz.png'
 tags: [Digital Design |, Interaction |, UX]
 ---
 
