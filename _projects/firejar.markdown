@@ -9,8 +9,8 @@ tags: [Web Development |, NodeJS + Express |, Mobile UX |, UI]
 <h3> Mobile web application built with NodeJS+Express, MongoDB, Amazon S3 and Web Sockets</h3>
 
 <div class="gallery" data-columns="2">
-  <img src="{{ site.baseurl }}/images/fjar/phnbrdg.JPG" alt="" title="example image">
-  <img src="{{ site.baseurl }}/images/fjar/whitman.JPG" alt="" title="example image">
+  <img src="{{ site.baseurl }}/images/fjar/phnbrdg.JPG" alt="" title="phone image">
+  <img src="{{ site.baseurl }}/images/fjar/whitman.JPG" alt="" title="sticker image">
 </div>
 <br>
 FireJar is a an API and web application for sharing for map-based media art.
