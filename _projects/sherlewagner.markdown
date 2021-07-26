@@ -1,8 +1,7 @@
 ---
 title: 'Sherle Wagner'
 date: 2018-06-10 00:00:00
-subtitle: 'Website and Online Catalog'
-description: Web dev project with Rails 
+description: 'Website and Online Catalog'
 featured_image: '/images/SW/SWshowcase.png'
 ---
 

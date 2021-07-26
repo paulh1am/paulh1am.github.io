@@ -36,10 +36,10 @@ This unique interactive experience achieved high engagement and conversion rates
 
 
 <br/>
-<div class="img_row">
+
 
 <img style="width: 35%; margin: 0 auto;" src="{{ site.baseurl }}/images/IRC_UX/mobile_quiz.gif"  alt="" title="display showcase"/>
-</div>
+
 
 
 
