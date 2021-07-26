@@ -1,35 +1,21 @@
 ---
-title: About Index
-subtitle: Index is a minimal, fixed sidebar grid portfolio Jekyll theme. Perfect for designers, artists, photographers and developers to use for their portfolio website.
-description: Index is a minimal, fixed sidebar grid portfolio Jekyll theme.
+title: About me
+subtitle:
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
-![](/images/demo/demo-landscape.jpg)
 
-## Features
+<p><img style="width:35%;" src="/images/portrait1BW.jpg" alt="" /></p>
 
-Index is packed with powerful features to showcase your work:
 
-* Beautiful, minimal design
-* Fixed sidebar menu
-* Two-column masonry grid layout
-* Responsive – works perfectly on all devices
-* Portfolio post type
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
 
-## Get Index
+I am an alum of <a href="https://tisch.nyu.edu/itp">ITP at NYU (MPS)</a> and the web development bootcamp at <a href="https://generalassemb.ly"> General Assembly</a>.
+Until recently I worked for International Rescue Committee.
 
-Index is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
+My skillset includes:
 
-<a href="https://jekyllthemes.io/theme/index-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
+* Responsive UX & UI design 
+* Web development with Javascript and React
+* Digital Design and Animation
+* Atomic Design
+* Rapid Prototyping

@@ -1,7 +1,6 @@
-site: Index Jekyll Theme
+site: Paul Hiam Portfolio
 
-url: https://index.jekyllthemes.io
-baseurl: 
+url: http://paulhiam.com
 
 collections:
   pages:
