@@ -10,7 +10,7 @@ tags: [Web Development |, NodeJS + Express |, Mobile UX |, UI]
 
 <div class="gallery" data-columns="2">
   <img src="{{ site.baseurl }}/images/fjar/phnbrdg.JPG" alt="" title="phone image">
-  <img src="{{ site.baseurl }}/images/fjar/stickr.JPG" alt="" title="sticker image">
+  <img src="{{ site.baseurl }}/images/fjar/whitman.jpg" alt="" title="sticker image">
 </div>
 <br>
 FireJar is a an API and web application for sharing for map-based media art.
