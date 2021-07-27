@@ -18,7 +18,7 @@ Below are some examples of features we designed and built.
 <hr/>
 <strong>Responsive story maps that animate on scroll</strong>
 
-This project was featured by Mapbox.com.
+This project was <a href="https://blog.mapbox.com/complex-stories-of-positive-change-838fbea805ea">featured</a> by Mapbox.com.
 
 <strong>My role:</strong> API integration, UX design, mapbox design, prototyping
 
