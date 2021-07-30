@@ -1,11 +1,10 @@
 ---
-layout: post
 title: Arcade Build + Space Game
 description: Arcade Cabinet and Unity2d Game
+date: 2013-07-30 00:00:00
 featured_image: '/images/arcade/arcade1.jpg'
 tags: [Unity |, CNC Fabrication |, Arduino |, Game Design]
 ---
-
 <h3> Arcade cabinet design and fabrication (CNC) and original 2 player game made with Unity</h3>
 
 <div class="gallery" data-columns="2">
