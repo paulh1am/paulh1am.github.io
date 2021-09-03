@@ -12,11 +12,12 @@ tags: [Digital Design |, Interaction |, UX]
 
 <h3>UX & Interaction Design:</h3>
 
-I was part of the Digital Team at International Rescue Committee. We handled the design and implementation of global websites and completed projects across the organization, providing leadership in the areas of UX and technology. We designed multiple award-winning digital campaigns during the 3 years I was there.
+I was a design on the Digital Team at International Rescue Committee. We handled the design and implementation of global websites and completed projects across the organization, providing leadership in the areas of UX and technology. 
+We also contributed to multiple award-winning <a href=" https://irc-webbycs.netlify.app/">digital campaigns </a> during the 3 years I was there.
 Below are some examples of features we designed and built.
 <br/>
 <hr/>
-<strong>Responsive story maps that animate on scroll</strong>
+<a href=" https://www.rescue.org/taxonomy/term/553"><strong>Responsive story maps that animate on scroll</strong></a>
 
 This project was <a href="https://blog.mapbox.com/complex-stories-of-positive-change-838fbea805ea">featured</a> by Mapbox.com.
 
@@ -28,7 +29,7 @@ This project was <a href="https://blog.mapbox.com/complex-stories-of-positive-ch
 <img style="width: 35%; margin: 0 auto;" src="{{ site.baseurl }}/images/IRC_UX/mapSyriaGif2.gif"  alt="" title="display showcase"/>
 </div>
 <hr/>
-<strong>Interactive quiz/lead-gen page for World Refugee Day campaign </strong>
+<strong><a href=" https://www.rescue.org/taxonomy/term/553">Interactive quiz & lead-gen page</a> for World Refugee Day campaign </strong>
 
 This unique interactive experience achieved high engagement and conversion rates.
 
@@ -48,9 +49,8 @@ This unique interactive experience achieved high engagement and conversion rates
 
 <h3>Graphics:</h3>
 <br/>
-I created digital assets for use across web, social and video and designed motion graphics and video content. I created and maintained the video graphics template library (Javascript/Adobe Extendscript)to standardize motion titles/graphics across the organization and to pre-design consistent campaigns. 
+During my time on the digital team I created digital assets for use across web, social and video and designed motion graphics and video content. I also created and maintained the video graphics template library (Javascript/Adobe Extendscript)to standardize motion titles/graphics across the organization and to pre-design consistent assets and campaign templates. 
 
-By switching from keyframes to code we significantly expanded the availability and use of motion graphics.
 <br/>
 
 

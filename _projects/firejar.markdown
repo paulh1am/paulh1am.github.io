@@ -1,5 +1,5 @@
 ---
-title: FireJar
+title: Location-Based Media App
 date: 2017-06-30 00:00:00
 description: Location-Based Media Web App
 featured_image: '/images/fjar/firejar.jpg'

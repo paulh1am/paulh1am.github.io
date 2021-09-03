@@ -1,5 +1,5 @@
 ---
-title: 'Sherle Wagner'
+title: Sherle Wagner Website
 date: 2018-06-10 00:00:00
 description: 'Website and Online Catalog'
 featured_image: '/images/SW/SWshowcase.png'

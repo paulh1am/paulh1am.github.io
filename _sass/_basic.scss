@@ -20,6 +20,9 @@ body {
 	color: $text-medium-color;
 }
 
+div.menu > div.menu__wrap > ul > li > a {
+	font-weight: $bold-weight;;
+}
 
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Typography

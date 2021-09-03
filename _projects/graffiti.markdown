@@ -9,9 +9,7 @@ tags: [Physical Computing |, Experience Design |, Installation |, Processing]
 
 <h3>Interactive graffiti installation with custom wireless controller, handwriting analysis and digital paint program</h3>
 
-<iframe src="https://player.vimeo.com/video/114297732" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-<br>
+<br/>
 
 This interactive piece invites users to create graffiti art on a brick wall through a live projection. The spray-paint can wirelessly communicates with an XBox Kinnect and a computer running the custom painting program and updates the projected animation, including paint drips. 
 
@@ -38,6 +36,9 @@ A main priority for this piece was to enable visitors to create convincing graff
 We used Twilio to let visitors text or email their paintings from within the app.
 One major learning was that experienced taggers would always shake the "can" very hard as soon as they had it in their hand.
 
+<br>
+<iframe src="https://player.vimeo.com/video/114297732" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
+<br>
 
 
