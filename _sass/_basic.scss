@@ -19,7 +19,7 @@ body {
 	line-height: 1;
 	color: $text-medium-color;
 }
-
+/*bold the top level nav*/
 div.menu > div.menu__wrap > ul > li > a {
 	font-weight: $bold-weight;;
 }
