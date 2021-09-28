@@ -10,13 +10,18 @@ tags: [Digital Design |, Interaction |, UX]
 
 
 
-<h3>Atomic design for multi-lingual websites</h3>
+<h3>Atomic design system for International Rescue Committee</h3>
 
-<strong>My role:</strong> UX design, prototyping, component-building (frontend development)
+<strong>My role:</strong> UX design, prototyping, component-building(HTML/CSS BEM, SASS)
+
+
+As a designer with the digital communications team at <a href="https://www.rescue.org/">International Rescue Committee</a> I worked on the design and implementation of public facing websites.
+
+In preparation for the organization's digital expansion into  multiple countries, our team created a <a href="https://rpl.rescue.org/latest/">pattern library</a> compiling the CSS and HTML of all our website components in one place to ensure brand consistency across languages and regions. 
 
 <img style="width: 65%; margin: 0 auto;" src="{{ site.baseurl }}/images/IRC_atomic/rpl-icons.png" alt="" title="example image">
 
-For IRC's creation of German and Swedish websites our team launched a <a href="https://rpl.rescue.org/latest/">pattern library</a> of all website components, housing CSS and HTML in one place to ensure brand consistency across languages and regions. One challenge was updating each component of our web patterns to support language-specific affordances such as the length of German words and the right-to-left text direction of Arabic.
+One challenge was updating each component of our web patterns to support language-specific affordances such as the length of German words and the right-to-left text direction of Arabic.
 
 We were fortunate enough to work with Atomic Design innovator Brad Frost to realize this transformation.
 

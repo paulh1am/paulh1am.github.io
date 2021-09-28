@@ -12,7 +12,7 @@ featured_image: '/images/SW/SWshowwide.png'
 
 
 
-<h3> Responsive website built with Rails, AWS, PostgreSQL, Rails admin JQuery and Bootstrap</h3>
+<h3> Responsive website built with Rails, AWS, PostgreSQL, Rails admin, JQuery and Bootstrap</h3>
 
 <strong>My role:</strong> Product design/UX, frontend web development (lead), full-stack web development, project management
 
