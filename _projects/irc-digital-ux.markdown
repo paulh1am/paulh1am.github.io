@@ -12,9 +12,10 @@ tags: [Digital Design |, Interaction |, UX]
 
 <h3>UX & Interaction Design:</h3>
 
-Designer on the Digital Team at International Rescue Committee.  
-Contributed to multiple award-winning <a href=" https://irc-webbycs.netlify.app/">digital campaigns </a>
-Examples of work.
+Designer with the Digital Team at International Rescue Committee.  
+Contributed to multiple award-winning <a href=" https://irc-webbycs.netlify.app/">digital campaigns </a> <br>
+
+Here is a selection of design work:
 <br/>
 <hr/>
 <a href=" https://www.rescue.org/taxonomy/term/553"><strong>Responsive story maps that animate on scroll</strong></a>
