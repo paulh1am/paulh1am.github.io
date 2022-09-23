@@ -23,7 +23,7 @@ In preparation for the organization's digital expansion into  multiple countries
 
 One challenge was updating each component of our web patterns to support language-specific affordances such as the length of German words and the right-to-left text direction of Arabic.
 
-We were fortunate enough to work with Atomic Design innovator Brad Frost to realize this transformation.
+We were honored to work with Atomic Design innovator <a href="https://bradfrost.com/blog/post/atomic-web-design/">Brad Frost</a> to complete this project.
 
 
 
