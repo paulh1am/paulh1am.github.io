@@ -10,7 +10,7 @@ featured_image: /images/demo/demo-landscape.jpg
 
 
 I am an alum of <a href="https://tisch.nyu.edu/itp">ITP at NYU (MPS)</a> and the web development bootcamp at <a href="https://generalassemb.ly"> General Assembly</a>.
-Until recently I worked for International Rescue Committee.
+My work experience includes Warecorp and International Rescue Committee.
 
 My skillset includes:
 
