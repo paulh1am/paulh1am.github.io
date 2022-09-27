@@ -1,5 +1,5 @@
 ---
-title: Fanfair mobile app
+title: Fanfair Mobile App
 date: 2022-04-01 00:00:00
 description: Product design for musicians' networking app
 featured_image: '/images/fanfair/ff_featured.png'
