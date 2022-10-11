@@ -10,7 +10,7 @@ tags: [Product Design |, Mobile App |, UX]
 
 <h3> Music industry-focused social App for networking and gaining fans</h3>
 
-<strong>My role:</strong> UX design
+<strong>My role:</strong> UX design (mainly in Figma)
 
 Our team worked with Fanfair to create a minimum viable product version of their mobile app. I re-designed their existing prototypes and added new functionality as we iterated on their product vision. The beta version of Fanfair is available on <a href="https://apps.apple.com/us/app/fanfair-grow-your-audience/id1610189757">the App Store</a> and for Android.
 <br>
@@ -25,13 +25,15 @@ Our team worked with Fanfair to create a minimum viable product version of their
 <br/>
 During Signup we needed to take in a significant amount of data and also authorize access to the user's Instagram. We prioritized simpicity, forward momentum (through animated transitions), and brand aesthetics. We also designed new forms and icons.
 
-
-<hr>
+Arriving at the desired signup flow involved multiple rounds of user flows and a series of wire flow mockups. Below is an example of a user flow marked up with notes.
 
 <div class="img_row">
 
-<img style="" src="{{ site.baseurl }}/images/fanfair/ff_xpost_t.png"  alt="" title="display showcase"/>
+<img style="" src="{{ site.baseurl }}/images/fanfair/ff_userflow_1.png"  alt="" title="display showcase"/>
 </div>
+
+<hr>
+
 
 <strong>Fansharing</strong>
 <br/>
