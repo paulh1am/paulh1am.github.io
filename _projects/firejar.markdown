@@ -13,10 +13,10 @@ tags: [Web Development |, NodeJS + Express |, Mobile UX |, UI]
   <img src="{{ site.baseurl }}/images/fjar/whitman.jpg" alt="" title="sticker image">
 </div>
 <br>
-FireJar is a an API and web application for sharing for map-based media art.
+FireJar is an API and web application for creating for location-based media experiences.
 Exploring how digital interactions can shape our experience of the world around us, this project invites people to share and discover content. 
 
-I made a demo experience that placed the verses to Walt Whitman's "Crossing Brooklyn Ferry" at locations along Brooklyn Bridge to play as users walk across. Stickers along the bridge encouraged interaction.  
+I made a demo experience that placed the verses to Walt Whitman's "Crossing Brooklyn Ferry" at locations along The Brooklyn Bridge to play as users walk across. Stickers along the bridge encouraged interaction. The experience worked as a hands-free/screen-free audio tour, while also providing information and additional options on-screen.
 
 
 <img style="width: 35%; margin: 0 auto;" src="{{ site.baseurl }}/images/fjar/brdgapprch.gif" alt="" title="example image">

@@ -12,7 +12,7 @@ tags: [Product Design |, Mobile App |, UX]
 
 <strong>My role:</strong> UX design (mainly in Figma)
 
-Our team worked with Fanfair to create a minimum viable product version of their mobile app. I re-designed their existing prototypes and added new functionality as we iterated on their product vision. The beta version of Fanfair is available on <a href="https://apps.apple.com/us/app/fanfair-grow-your-audience/id1610189757">the App Store</a> and for Android.
+Our team worked with <a href="https://www.fanfairapp.com/">Fanfair</a> to create a new beta version of their mobile app. We re-designed existing prototypes and added new functionality as we iterated on their product vision. The beta version of Fanfair is available on <a href="https://apps.apple.com/us/app/fanfair-grow-your-audience/id1610189757">the App Store</a> and for Android.
 <br>
 <hr>
 
