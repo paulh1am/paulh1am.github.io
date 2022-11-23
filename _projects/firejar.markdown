@@ -2,7 +2,7 @@
 title: Location-Based Media App
 date: 2017-06-30 00:00:00
 description: Location-Based Media Web App
-featured_image: '/images/fjar/phnbrdg.PNG'
+featured_image: '/images/fjar/phnbrdg.png'
 tags: [Web Development |, NodeJS + Express |, Mobile UX |, UI]
 ---
 
