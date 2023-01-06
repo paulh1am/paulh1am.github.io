@@ -2,7 +2,7 @@
 title: Fanfair Mobile App
 date: 2022-04-01 00:00:00
 description: Product design for musicians' networking app
-featured_image: '/images/fanfair/ff_screens1.png'
+featured_image: '/images/fanfair/ff_screens1_2.png'
 tags: [Product Design |, Mobile App |, UX]
 ---
 
@@ -25,7 +25,7 @@ Our team worked with <a href="https://www.fanfairapp.com/">Fanfair</a> to create
 <br/>
 During Signup we needed to take in a significant amount of data and also authorize access to the user's Instagram. We prioritized simpicity, forward momentum (through animated transitions), and brand aesthetics. We also designed new forms and icons.
 
-Arriving at the desired signup flow involved multiple rounds of user flows and a series of wire flow mockups. Below is an example of a user flow marked up with notes.
+Arriving at the desired signup flow involved multiple rounds of user flows and a series of wire flow mockups. Below is a screenshot of a user flow marked up with notes mid-update.
 
 <div class="img_row">
 
