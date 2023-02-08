@@ -78,6 +78,14 @@ They had analyzed competitors, conducted interviews of likely users and develope
 
 They had also recruited artists as app beta testers and had tested their value-proposition with in person events where they connected artists and had them shout each other out on social media to reach new followers.
 
+<br/>
+<br/>
+<div class="img_row img_small">
+
+<img style="" src="{{ site.baseurl }}/images/fanfair/ff_banner_screen.png"  alt="" title="steps"/>
+</div>
+<br/>
+
 <strong>Main Takeaways:</strong>
 
 **-** Artists are excited to connect and willing to publicize each other. They understand that reaching active, engaged fans of their style of music is vital to furthering their careers.
@@ -92,13 +100,15 @@ They had also recruited artists as app beta testers and had tested their value-p
 <br/>
 
 <div class="light">
-<p>
-  
-  
-  <div class="img_row">
 
-<img style="" src="{{ site.baseurl }}/images/fanfair/ff_banner_screen.png"  alt="" title="product banner"/>
+  <br/>
+  <br/>
+  
+  <div class="img_row img_small">
+
+<img style="" src="{{ site.baseurl }}/images/fanfair/ff_steps_screen.png"  alt="" title="product banner"/>
 </div>
+<p>
 <h3>Solution & Product Vision</h3>
 </p>
 
@@ -173,6 +183,12 @@ Moving into the design phase, we identified key user stories and I created userf
 <div class="img_row img_small">
 
 <img style="" src="{{ site.baseurl }}/images/fanfair/ff_protoflow.png"  alt="" title="product banner"/>
+</div>
+<br/>
+<br/>
+<div class="img_row img_small">
+
+<img style="" src="{{ site.baseurl }}/images/fanfair/ff_xpost_t.png"  alt="" title="x-post"/>
 </div>
 <br/>
 <br/>
