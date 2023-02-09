@@ -186,6 +186,21 @@ Moving into the design phase, we identified key user stories and I created userf
 </div>
 <br/>
 <br/>
+
+
+<p>
+<strong>Solving Design Challenges</strong>
+</p><p>
+I designed the information architecture around a five icon bottom nav and a tab-style top-nav for related screens–such as notifications and chat.
+</p><p>
+I designed the profile and media manager to be simple and intuitive.
+</p><p>
+we created a social-style feed, a notifications screen and chat functionality.
+</p><p>
+We designed a fansharing experience with minimal steps and a focus on collaboration. It clearly visualizes the system state for both parties as the posts are proposed, updated, approved and posted to Instagram. 
+<br/><br/>
+</p>
+
 <div class="img_row img_small">
 
 <img style="" src="{{ site.baseurl }}/images/fanfair/ff_xpost_t.png"  alt="" title="x-post"/>
@@ -194,7 +209,7 @@ Moving into the design phase, we identified key user stories and I created userf
 <br/>
 
 <p>
-<strong>Design Challenge Example:</strong>
+<strong>Design Challenge Example</strong>
 </p><p>
 Our first focus area was the signin and setup stage and it presented some unique challenges. 
 </p><p>
@@ -222,13 +237,14 @@ To manage the complexity of the facebook account setup we added a video introduc
 </p>
 <br/>
 <br/>
+<br/>
+</div>
 <div class="img_row">
 
 <img style="" src="{{ site.baseurl }}/images/fanfair/ff_login.png"  alt="" title="display showcase"/>
 </div>
 <br/>
-<br/>
-</div>
+
 <strong>Conclusion & Takeaways</strong>
 
 
@@ -248,6 +264,6 @@ Some important lessons from this project:
 <img style="" src="{{ site.baseurl }}/images/fanfair/ff_feed_t.png"  alt="" title="feed"/>
 </div>
 <br/>
-This app MVP has an impressive featureset including a social feed, chat funcionality and a dashboard for managing ongoing fanshares as they are proposed, approved and posted. Designing these flows presented interesting challenges and opportunities. <br/>
+This app MVP has an impressive feature set including a social feed, chat funcionality and a dashboard for managing ongoing fanshares as they are proposed, approved and posted. Designing these flows presented interesting challenges and opportunities. <br/>
 <br/>
 <br/>
