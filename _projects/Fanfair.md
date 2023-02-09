@@ -31,7 +31,7 @@ tags: [Product Design |, Mobile App |, UX]
 
 <h3> Music industry-focused social app for networking and gaining fans</h3>
 
-<strong>My role:</strong>Product Design, UX/Ui design, visual design
+<strong>My role:</strong> Product Design, UX/Ui design, visual design
 
 My team at Warecorp worked with <a href="https://www.fanfairapp.com/">Fanfair</a> to create a new beta version of their mobile app. We re-designed existing prototypes and added new functionality as we iterated on their product vision. The beta version of Fanfair is available on <a href="https://apps.apple.com/us/app/fanfair-grow-your-audience/id1610189757">the App Store</a> and for Android.
 
@@ -264,6 +264,6 @@ Some important lessons from this project:
 <img style="" src="{{ site.baseurl }}/images/fanfair/ff_feed_t.png"  alt="" title="feed"/>
 </div>
 <br/>
-This app MVP has an impressive feature set including a social feed, chat funcionality and a dashboard for managing ongoing fanshares as they are proposed, approved and posted. Designing these flows presented interesting challenges and opportunities. <br/>
+This app MVP has an impressive feature set including a social feed, chat funcionality and a dashboard for managing ongoing fanshares as they are proposed, approved and posted. Designing and prototyping these flows presented interesting challenges and opportunities. <br/>
 <br/>
 <br/>
