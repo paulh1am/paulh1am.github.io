@@ -10,12 +10,12 @@ featured_image: /images/demo/demo-landscape.jpg
 
 
 I am an alum of <a href="https://tisch.nyu.edu/itp">ITP at NYU (MPS)</a> and the web development bootcamp at <a href="https://generalassemb.ly"> General Assembly</a>.
-My work experience includes Warecorp and International Rescue Committee.
+I have worked as a Product Designer at Warecorp and as a UX Designer at International Rescue Committee. I've also done numerous contract and freelance projects as a designer, developer and product manager. Reach me by email: pshiam@ an email provider that rhymes with flügel.
 
-My skillset includes:
+Some things I'm pretty good at:
 
-* Responsive UX & UI design 
+* Product Design & UX/UI 
 * Web development with Javascript and React
-* Digital Design and Animation
-* Atomic Design
-* Rapid Prototyping
+* Digital Design and Animations
+* Design Systems
+* Making your technology product idea real
