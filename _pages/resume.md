@@ -1,7 +1,41 @@
 ---
-title: Resume
-subtitle:
-featured_image:
+layout: default
+title: Paul Hiam Portfolio
+description: Designer and Developer
+featured_image: /images/social.jpg
 ---
 
-<h3>.pdf is available here </h3><a href="/documents/resume2021_web1.pdf" target="blank">Paul Hiam resume</a>
+<section class="portfolio">
+
+  <div class="content-wrap portfolio-wrap">
+
+
+    {% for older in site.olders reversed %}
+
+      <div class="portfolio-item">
+
+        <a class="portfolio-item__link" href="{{ older.url | relative_url }}">
+
+          <div class="portfolio-item__image">
+            <img src="{{ older.featured_image | relative_url }}" alt="{{ project.title }}">
+          </div>
+
+          <div class="portfolio-item__content">
+            <div class="portfolio-item__info">
+              <h2 class="portfolio-item__title">{{ older.title }}</h2>
+              <p class="portfolio-item__subtitle">{{ older.subtitle }}</p>
+            </div>
+          </div>
+        </a>
+        <!-- <a href="href="{{ project.url | relative_url }}"">
+          <h4 class="portfolio-item__title2">{{ project.title }}</h4>
+        </a> -->
+
+      </div>
+
+    {% endfor %}
+
+  </div>
+  <h2>title below</h2>
+
+</section>

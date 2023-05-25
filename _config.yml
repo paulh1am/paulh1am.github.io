@@ -12,6 +12,9 @@ collections:
   projects:
     output: true
     permalink: /project/:slug
+  olders:
+    output: true
+    permalink: /older/:slug
 
 defaults:
   -

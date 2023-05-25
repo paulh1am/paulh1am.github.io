@@ -4,7 +4,12 @@ title: Paul Hiam Portfolio
 description: Designer and Developer
 featured_image: /images/social.jpg
 ---
+<section class="head-tron">
 
+		<h2>Portfolio</h2>
+		<p></p>
+
+</section>
 <section class="portfolio">
 
 	<div class="content-wrap portfolio-wrap">
@@ -34,6 +39,44 @@ featured_image: /images/social.jpg
 
 		{% endfor %}
 
+
 	</div>
 
+</section>
+<section class="head-tron">
+
+		<h2>Other Work</h2>
+		<p></p>
+
+</section>
+<section class="portfolio">
+	<div class="content-wrap portfolio-wrap">
+
+
+    {% for older in site.olders reversed %}
+
+      <div class="portfolio-item">
+
+        <a class="portfolio-item__link" href="{{ older.url | relative_url }}">
+
+          <div class="portfolio-item__image">
+            <img src="{{ older.featured_image | relative_url }}" alt="{{ project.title }}">
+          </div>
+
+          <div class="portfolio-item__content">
+            <div class="portfolio-item__info">
+              <h2 class="portfolio-item__title">{{ older.title }}</h2>
+              <p class="portfolio-item__subtitle">{{ older.subtitle }}</p>
+            </div>
+          </div>
+        </a>
+        <!-- <a href="href="{{ project.url | relative_url }}"">
+          <h4 class="portfolio-item__title2">{{ project.title }}</h4>
+        </a> -->
+
+      </div>
+
+    {% endfor %}
+
+  </div>
 </section>

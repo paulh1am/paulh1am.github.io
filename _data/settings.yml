@@ -1,6 +1,6 @@
 basic_settings:
   site_title: Paul Hiam
-  site_tagline: Designer and Developer exploring interactions and storytelling
+  site_tagline: A Product Designer who codes
   favicon_image: /images/favicon.ico
 
 header_settings:
@@ -9,12 +9,13 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
+
+    - title: 'About'
+      url: '/about'
+    - title: 'Portfolio'
       url: '/'
     # - title: 'Blog'
     #   url: '/blog/'
-    - title: 'About'
-      url: '/about'
     # - title: 'Resume'
     #   url: '/resume'
 

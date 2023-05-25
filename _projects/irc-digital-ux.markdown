@@ -12,10 +12,9 @@ tags: [Digital Design |, Interaction |, UX]
 
 <h3>UX & Interaction Design:</h3>
 
-Designer with the Digital Team at International Rescue Committee.  
-Contributed to multiple award-winning <a href=" https://irc-webbycs.netlify.app/">digital campaigns </a> <br>
+During my time at rescue.org I designed numerous interactive features, built out platforms and contributed to multiple award-winning <a href=" https://irc-webbycs.netlify.app/">digital campaigns </a> <br>
 
-Here is a selection of design work:
+Here is some of that   work:
 <br/>
 <hr/>
 <a href=" https://www.rescue.org/taxonomy/term/553"><strong>Responsive story maps that animate on scroll</strong></a>
@@ -50,7 +49,7 @@ This unique interactive experience achieved high engagement and conversion rates
 
 <h3>Graphics:</h3>
 <br/>
-Created digital assets for use across web, social and video and designed motion graphics and video content. Built video graphics templates with Javascript/Adobe Extendscript and developed video graphics library. 
+I also created digital assets for use across web, social and video and designed motion graphics and video content. One noteable project was coding video graphics templates with Javascript/Adobe Extendscript and creating/maintaining the video graphics library, saving time and cost across the org's entire video operation.
 
 <br/>
 

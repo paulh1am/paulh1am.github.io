@@ -2,7 +2,7 @@
 title: IRC Pattern Library
 date: 2020-04-01 00:00:00
 description: IRC - UX & Digital Design Work
-featured_image: '/images/IRC_atomic/rpl-cover.png'
+featured_image: '/images/IRC_atomic/rpl-icons2_1.png'
 tags: [Digital Design |, Interaction |, UX]
 ---
 
