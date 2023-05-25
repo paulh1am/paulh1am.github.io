@@ -48,7 +48,7 @@ expanding their social media fanbases to attract labels and opportunities. They 
 <br/>
 Fanfair’s solution is to connect similar artists to each other and help them reach each other’s followers (which they call ‘fansharing’). This way both artists can grow their fanbase. 
 <br/>
-They set out to create a platform that achieves this and needed a new mobile app MVP. That’s where we came in.
+They set out to create a platform that achieves this and needed a new mobile app MVP. That’s where we came in. Our challenge was to take an app MVP project that had been abandoned and create a working app that delivered on the core value proposition and get it in the hands of users on a short timeline. 
 <br/>
 <br/>
 </p>
@@ -58,9 +58,9 @@ They set out to create a platform that achieves this and needed a new mobile app
 <strong>Starting Point</strong>
 
 On the Design side we received: 
-- Existing user research and competitor analysis.
-- An existing visual prototype with some of the key screens 
-- Some visual assets like logos, icons and photo treatments
+- Existing user research and competitor analysis
+- A visual prototype with some of the key screens (and many gaps)
+- Some visual assets: logos, icons and photo treatments
 
 The dev team received a code repo from a previous version of the app.
 
@@ -249,7 +249,10 @@ To manage the complexity of the facebook account setup we added a video introduc
 
 
 The app was completed, tested and approved on the app store on a tight timeline to fit with Fanfair’s rollout schedule and the development team did a great job to make that deadline. 
-Having the app in the hands of users is an exciting time so it was hard to hand this project off after the beta went live.
+One of the most exciting things about this project was watching the first round of users onboarding as soon as the product went live.
+Having the app in the hands of users is an exciting time but due to the nature of our partnership we did hand this project over after the app went live.
+
+Fanfair was able to use this product to move to the next phase of their rollout- validating their value proposition, fundraising and building partnerships in the music industry. 
 
 Some important lessons from this project:
 

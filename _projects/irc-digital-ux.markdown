@@ -1,6 +1,6 @@
 ---
 title: IRC Design & Interactive Work
-date: 2019-06-30 00:00:00
+date: 2021-06-30 00:00:00
 description: IRC - UX & Digital Design Work
 featured_image: '/images/IRC_UX/tabletQuiz.png'
 tags: [Digital Design |, Interaction |, UX]
@@ -29,11 +29,11 @@ This project was <a href="https://blog.mapbox.com/complex-stories-of-positive-ch
 <img style="width: 35%; margin: 0 auto;" src="{{ site.baseurl }}/images/IRC_UX/mapSyriaGif2.gif"  alt="" title="display showcase"/>
 </div>
 <hr/>
-<strong><a href=" https://www.rescue.org/taxonomy/term/553">Interactive quiz & lead-gen page</a> for World Refugee Day campaign </strong>
+<strong>Interactive quiz & lead-gen page for World Refugee Day campaign </strong>
 
-This unique interactive experience achieved high engagement and conversion rates.
+This unique interactive experience achieved high engagement and conversion rates. It led users through a quiz with satisfying tap-and-drag mobile interactions that affirmed their values and then presented a sign up form in the final stage.
 
-<strong>My role:</strong> Concept & Interaction design, prototyping, UX.
+<strong>My role:</strong> Overall Concept & Interaction design, prototyping-in-code, UX.
 
 
 <br/>
