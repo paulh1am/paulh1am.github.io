@@ -29,7 +29,7 @@ Among the tricky problems we faced in turning patterns into fully reusable compo
 
 This system has been a complete solution for multiple sites, allowing the organization to replicate the aesthetic and quality of the global website for regional use-cases. 
 
-This was also an incredible learning experience and a one-of-a-kind chance to learn from the best. It also proved to me the value of continuing to write code as a designer, especially in the context of design systems as we were able to operate with very little gap or delay between designers and developers. 
+This was also an incredible learning experience, a chance to learn from the best. It also proved to me the value of continuing to write code as a designer, especially in the context of design systems as we were able to operate with very little gap or delay between designers and developers.
 
 
 <br/>
