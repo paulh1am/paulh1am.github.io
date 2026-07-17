@@ -1,7 +1,7 @@
 ---
 title: Piazza Ed-Tech Platform
 date: 2024-01-01 00:00:00
-description: Design sprint to modernize a university ed-tech platform
+description: Website Redesign
 featured_image: '/images/piazza/piazza_thumb.png'
 subtitle: Design Sprint
 tags: [Product Design |, Design Sprint |, UX/UI]
@@ -33,7 +33,7 @@ tags: [Product Design |, Design Sprint |, UX/UI]
   }
 </style>
 
-![](/images/piazza/Piazza_page.png)
+![](/images/piazza/piazza_heroBan.png)
 
 ### A design sprint to modernize a university ed-tech platform that wasn't working — visually or functionally.
 
@@ -41,25 +41,25 @@ tags: [Product Design |, Design Sprint |, UX/UI]
 
 <hr>
 
-<div class="light">
-
 **The Problem**
+
+
 
 Piazza is a widely-used ed-tech platform connecting students and instructors. Despite strong utility, the product suffered from an outdated visual design and a website that wasn't keeping pace with modern UX standards — creating friction for users and undermining trust in the brand.
 
 The ask: lead a focused design sprint to align stakeholders, define a clear visual direction, and produce responsive designs ready for developer handoff.
 
-</div>
+<br>
 
 **Starting Point**
 
 The existing site had usability and aesthetic issues that stakeholders knew needed addressing — but hadn't yet aligned on what "better" looked like. Before design work could begin, we needed to surface those opinions and build consensus around a shared vision.
 
-<div class="img_small">
 
-![Before: the existing Piazza website](/images/piazza/piazza_before.png)
 
-</div>
+![Before state](/images/piazza/piazza_before.png)
+
+
 
 <hr>
 
@@ -73,11 +73,10 @@ I facilitated a remote workshop with stakeholders using Miro, combining sticky n
 
 This surfaced real opinions quickly and gave everyone a shared vocabulary for what wasn't working — and what to aim for.
 
-<div class="img_small">
 
 ![Miro stakeholder workshop](/images/piazza/Miro_workshop_2.png)
 
-</div>
+
 
 <br>
 
@@ -87,15 +86,15 @@ With reactions on the table, I moved into alignment exercises to understand how 
 
 **Key question:** *"How do you imagine the redesigned website?"*
 
-<div class="img_small">
+
 
 ![Visual direction slider exercise](/images/piazza/slider_exercise.png)
 
-</div>
+
 
 <br>
 
-<div class="light">
+
 
 #### 3 — Present Three Visual Directions
 
@@ -107,7 +106,7 @@ The outcome was a hybrid direction: taking the strongest elements from each conc
 
 ![Three visual directions for Piazza](/images/piazza/Piazza_site_styles.png)
 
-</div>
+
 
 <br>
 

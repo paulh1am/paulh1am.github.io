@@ -8,17 +8,26 @@ featured_image: /images/demo/demo-landscape.jpg
 
 
 
-Hi I'm Paul! I enjoy designing interesting interactions, building products and solving problems to deliver delightful user experiences. I also play guitar, cook and spend as much time outside as I can.
+Hi, I'm Paul. I'm a designer and creative technologist with over 10 years working across UX/UI, design systems, brand, and front-end development – with some interesting sidequests and detours along the way.
 
-I have worked as a Product Designer at Warecorp and as a UX Designer at International Rescue Committee. I've also done numerous contract and freelance projects as a designer, developer and product manager. Once I connected a mushroom to Twitter.
+Lately I'm building with AI workflows, token-driven design systems, and rapid prototyping pipelines that connect design and code. I'm interested in roles at the intersection of design, systems thinking, and emerging technology. Most of my work has focused on social impact, NGO's and responsible tech.
 
-I'm located a short(ish) train ride from NYC in the Hudson Valley.
-Reach me by email: pshiam@ [that email host from the company that rhymes with flügel].
+I'm based north of New York in the lower Hudson Valley.
+<hr>
+**Some things I work with:**
 
-Here's a list of things I might be able to help you with:
+* Product design and UX/UI
+* Rapid Prototyping
+* Design systems and component libraries
+* Front-end development with some full-stack and creative coding: websockets, 3d, Twilio etc.
+* AI workflows and automation
 
-* End to end Product Design
-* UX/UI design
-* Design Systems
-* Web development with Javascript and React
-* Digital design and Animation
+<hr>
+**Some things I'm thinking and writing about**
+
+* What happens when the information on the web is written and consumed primarily by LLM's?
+* How do we create an enduring framework for socializing children into our rapidly changing technology landscape (think learning to swim vs being unsupervised at the pool)?
+* When will technology flip from being mostly products that shape our society unintentionally to primarily a resource we deploy to shape our society intentionally?
+
+
+**I can be reached at pshiam [at] google's mail.** 
