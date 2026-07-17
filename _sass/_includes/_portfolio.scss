@@ -39,7 +39,7 @@
 }
 
 .portfolio-wrap {
-	
+
 }
 
 .portfolio-item {
@@ -66,10 +66,17 @@
 .portfolio-item__image {
 	width: 100%;
 	overflow: hidden;
+	position: relative;
+	padding-top: 100%;
 
 	img {
-		display: block;
+		position: absolute;
+		top: 0;
+		left: 0;
 		width: 100%;
+		height: 100%;
+		object-fit: cover;
+		object-position: center top;
 		@include transition(opacity 0.2s ease-in-out);
 	}
 }
@@ -101,6 +108,7 @@
 
 .portfolio-item__subtitle {
 	margin-top: 4px;
+	min-height: 1.4em;
 	color: $text-light-color;
 	font-size: $grid-item-subtitle-small;
 	font-weight: $grid-item-subtitle-weight;
