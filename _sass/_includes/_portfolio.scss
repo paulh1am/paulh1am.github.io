@@ -4,13 +4,23 @@
 
 // - - - - - - - - - - - - - - - - - -
 
-.head-tron{
-	text-align: center;
-	padding-top: 30px;
+.head-tron {
 	padding: $grid-spacing/2;
-	margin-bottom: -30px;
-	margin-top:0;
+	padding-top: 40px;
+	margin-bottom: -10px;
+	margin-top: 0;
 	background-color: $background-color;
+
+	h2 {
+		font-size: 11px;
+		font-family: $body-font;
+		font-weight: 600;
+		letter-spacing: 0.12em;
+		text-transform: uppercase;
+		color: $text-light-color;
+		margin-top: 0;
+	}
+
 	@include mq(tabletl) {
 		padding: $grid-spacing/2;
 		padding-top: 70px;
@@ -40,50 +50,45 @@
 }
 
 .portfolio-item__link {
-	position: relative;
 	display: block;
+	@include transition(transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out);
 
-	@include mq(tabletl) {
+	&:hover {
+		transform: translateY(-3px);
+		box-shadow: 0 10px 32px rgba(0, 0, 0, 0.10);
 
-		&:hover {
-
-			.portfolio-item__content {
-				opacity: 1;
-				visibility: visible;
-			}
+		.portfolio-item__image img {
+			opacity: 0.92;
 		}
 	}
 }
 
 .portfolio-item__image {
 	width: 100%;
+	overflow: hidden;
+
+	img {
+		display: block;
+		width: 100%;
+		@include transition(opacity 0.2s ease-in-out);
+	}
 }
 
 .portfolio-item__content {
-	position: absolute;
-	top: 0;
-	right: 0;
-	bottom: 0;
-	left: 0;
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	background: rgba($overlay-background-color, $overlay-opacity);
-
-	opacity: 0;
-	visibility: hidden;
-	@include transition(all 0.2s ease-in-out);
+	padding: 12px 2px 6px;
 }
 
 .portfolio-item__info {
-	text-align: center;
+	text-align: left;
 }
 
 .portfolio-item__title {
-	color: $overlay-text-color;
+	color: $text-dark-color;
 	font-size: $grid-item-title-small;
 	font-weight: $grid-item-title-weight;
 	letter-spacing: $grid-item-title-spacing;
+	font-family: $title-font;
+	margin-top: 0;
 
 	@include mq(tabletp) {
 		font-size: $grid-item-title-medium;
@@ -95,11 +100,12 @@
 }
 
 .portfolio-item__subtitle {
-	margin-top: 5px;
-	color: rgba($overlay-text-color, 0.7);
+	margin-top: 4px;
+	color: $text-light-color;
 	font-size: $grid-item-subtitle-small;
 	font-weight: $grid-item-subtitle-weight;
 	letter-spacing: $grid-item-subtitle-spacing;
+	font-family: $body-font;
 
 	@include mq(tabletp) {
 		font-size: $grid-item-subtitle-medium;

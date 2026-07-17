@@ -4,12 +4,17 @@
 
 // - - - - - - - - - - - - - - - - - -
 
+$sidebar-bg: #1e1c19;
+$sidebar-text: #e6e1d9;
+$sidebar-muted: rgba(#e6e1d9, 0.5);
+$sidebar-hover: #ffffff;
 
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Header
 
 .header {
 	padding: 20px;
+	background: $background-color;
 
 	@include mq(tabletp) {
 		padding: 40px;
@@ -23,6 +28,8 @@
 		bottom: 0;
 		width: 30%;
 		padding: 0;
+		background: $sidebar-bg;
+		border-right: none;
 	}
 }
 
@@ -31,11 +38,11 @@
 	@include mq(tabletl) {
 		position: relative;
 		min-height: 100vh;
-		padding: 40px 40px 135px;
+		padding: 48px 44px 135px;
 	}
 
 	@include mq(laptop) {
-		padding: 60px 60px 145px;
+		padding: 64px 56px 145px;
 	}
 }
 
@@ -70,25 +77,38 @@
 		font-size: $sitetitle-medium;
 	}
 
+	@include mq(tabletl) {
+		color: $sidebar-text;
+
+		&:hover {
+			color: $sidebar-hover;
+		}
+	}
+
 	@include mq(laptop) {
 		font-size: $sitetitle-large;
 	}
 }
 
 .header__tagline {
-	margin-top: 20px;
+	margin-top: 10px;
 	font-size: $sitetagline-small;
 	font-weight: $sitetagline-weight;
 	letter-spacing: $sitetagline-spacing;
 	line-height: $sitetagline-lineheight;
 	color: $text-medium-color;
+	font-family: $body-font;
 
 	@include mq(tabletp) {
 		font-size: $sitetagline-medium;
 	}
 
+	@include mq(tabletl) {
+		color: $sidebar-muted;
+	}
+
 	@include mq(laptop) {
-		margin-top: 30px;
+		margin-top: 14px;
 		font-size: $sitetagline-large;
 	}
 }
@@ -98,13 +118,13 @@
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Menu
 
 .menu {
-	
+
 	@include mq(tabletl) {
-		margin-top: 20px;
+		margin-top: 32px;
 	}
 
 	@include mq(laptop) {
-		margin-top: 30px;
+		margin-top: 40px;
 	}
 }
 
@@ -122,7 +142,7 @@
 		top: 40px;
 		right: 40px;
 	}
-	
+
 	@include mq(tabletl) {
 		display: none;
 	}
@@ -160,16 +180,16 @@
 	span:before, span:after {
 		background: $overlay-text-color !important;
 	}
-		
+
 	span {
 		background-color: transparent !important;
 	}
-	
+
 	span:before,
 	span:after {
 		top: 0;
 	}
-	
+
 	span:before {
 		@include rotate(45);
 	}
@@ -224,7 +244,9 @@
 }
 
 .menu__list__item {
-
+	@include mq(tabletl) {
+		margin-bottom: 6px;
+	}
 }
 
 .menu__list__item__link {
@@ -232,6 +254,9 @@
 	font-weight: $menu-weight;
 	color: $overlay-text-color;
 	padding: 10px 0;
+	font-family: $body-font;
+	letter-spacing: $menu-spacing;
+	text-transform: uppercase;
 
 	&:hover {
 		color: $overlay-accent-color;
@@ -240,22 +265,22 @@
 	@include mq(tabletl) {
 		padding: 0;
 		font-size: $menu-medium;
-		color: $text-dark-color;
+		color: $sidebar-muted;
 
 		&:hover {
-			color: $accent-color;
+			color: $sidebar-hover;
 		}
 	}
 
 	@include mq(laptop) {
 		font-size: $menu-large;
 	}
-	
+
 	&.active-link {
 		color: $overlay-accent-color;
 
 		@include mq(tabletl) {
-			color: $accent-color;
+			color: $sidebar-text;
 		}
 	}
 }
@@ -278,14 +303,36 @@
 
 .projects-menu {
 	display: none;
-	
+
 	@include mq(tabletl) {
 		display: block;
-		margin-top: 20px;
+		margin-top: 28px;
+		padding-top: 24px;
+		border-top: 1px solid rgba(#e6e1d9, 0.12);
 	}
 
 	@include mq(laptop) {
-		margin-top: 30px;
+		margin-top: 36px;
+	}
+
+	.menu__list__item {
+		@include mq(tabletl) {
+			margin-bottom: 12px;
+		}
+	}
+
+	.menu__list__item__link {
+		@include mq(tabletl) {
+			font-size: 13px;
+			text-transform: none;
+			letter-spacing: 0;
+			font-weight: 400;
+			color: $sidebar-muted;
+
+			&:hover {
+				color: $sidebar-text;
+			}
+		}
 	}
 }
 
@@ -300,11 +347,11 @@
 		display: block;
 		position: absolute;
 		bottom: 30px;
-		left: 40px;
+		left: 44px;
 	}
 
 	@include mq(laptop) {
 		bottom: 40px;
-		left: 60px;
+		left: 56px;
 	}
 }

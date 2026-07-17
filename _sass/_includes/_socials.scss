@@ -52,3 +52,15 @@
 		color: $background-color;
 	}
 }
+
+.header .socials__item__link {
+	@include mq(tabletl) {
+		background: rgba(#e6e1d9, 0.15);
+		color: #e6e1d9;
+
+		&:hover {
+			background: rgba(#e6e1d9, 0.3);
+			color: #ffffff;
+		}
+	}
+}
